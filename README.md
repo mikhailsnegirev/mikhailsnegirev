@@ -25,9 +25,9 @@
 |8| <a href='https://github.com/mikhailsnegirev/Sales_forecasting_system_for_hotels'> Система прогнозирования продажи отелей </a> |Спрогнозировать кто из клиентов откажется от брони.   | Pandas, sklearn, numpy, Seaborn, Matplotlib, SciPy | Машинное обучение, Разработка бизнес-модели |
 |9| <a href='https://github.com/mikhailsnegirev/housing_cost_forecasting'> Прогнозирование стоимости жилья в жилом массиве. </a> |Определить медианную стоимость квартиры.   | Spark, Python | Машинное обучение, Big-Data, Регрессия |
 |10| <a href='https://github.com/mikhailsnegirev/Music_genre_prediction'> Классификация музыкальных жанров | Разработать модель, позволяющую классифицировать музыкальные произведения по жанрам. </a>  | Pandas, Matplotlib, Seaborn, numpy, sklearn, машинное обучение, классификация, подбор гиперпараметров, выбор модели МО | Машинное обучение, Классификация |
-
- 
-  
+|11| <a href='https://github.com/mikhailsnegirev/protection_of_personal_information'> Защита данных клиентов страховой компании | Разработать модели анонимизации персональных данных. </a>  | Pandas, Matplotlib, Seaborn, numpy, sklearn, машинное обучение,  подбор гиперпараметров, выбор модели МО | Машинное обучение, Банковская сфера, Интернет-сервисы, Инвестиции, Телеком |
+|12| <a href='https://github.com/mikhailsnegirev/determining_the_cost_of_cars'> Построение модели определения стоимости автомобиля | Разработать систему рекомендации стоимости автомобиля на основе его описания. </a>  | Pandas, Matplotlib, Seaborn, numpy, sklearn, машинное обучение,  подбор гиперпараметров, выбор модели МО, lightgbm, RandomForest | Машинное обучение, Интернет-сервисы, Интернет-магазины, Бизнес |
+|12| <a href='https://github.com/mikhailsnegirev/product_matching'> Мэтчинг товаров: сопоставление и поиск наиболее похожих товаро | Разработать алгоритм, который для всех товаров из validation.csv предложит несколько вариантов наиболее похожих товаров из base. </a>  | Pandas, Matplotlib, Seaborn, numpy, sklearn, машинное обучение,  подбор гиперпараметров, выбор модели МО,  FAISS, ANNOY, KMeans, NearestNeighbors | Интернет-сервисы, Интернет-магазины, Бизнес |
   
 <hr>
   
