@@ -37,6 +37,12 @@
 <hr>
   
 
+### Дипломы и сертификаты 
+----
 
+<div> <img src="https://raw.githubusercontent.com/mikhailsnegirev/diplomas_and_certificates/refs/heads/main/Certificate_RU_1.png" width="180" height="130">
+<img src="https://raw.githubusercontent.com/mikhailsnegirev/diplomas_and_certificates/refs/heads/main/Certificate_RU_2.png" width="180" height="130">
+<img src="https://raw.githubusercontent.com/mikhailsnegirev/diplomas_and_certificates/refs/heads/main/Certificate_EN_1.png" width="180" height="130">
+<img src="https://raw.githubusercontent.com/mikhailsnegirev/diplomas_and_certificates/refs/heads/main/Certificate_EN_2.png" width="180" height="130">
 
 
