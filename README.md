@@ -6,7 +6,7 @@
 #### Немного обо мне: <br>
 1️⃣ Успешно развиваюсь в области Data science  <br>
 2️⃣ Закончил МГТУ им. Н. Э. Баумана с отличием по специальности "Прикладная математика и информатика" <br>
-3️⃣ Владею Python, SQL, Sklearn, Pandas, Numpy, Matplotlib, PyPlot, Seaborn, NLTK, Tensorflow, RNN, PyTorch и другими инструментами и библиотеками  <br>
+3️⃣ Владею Python, SQL, Sklearn, Pandas, Numpy, Matplotlib, PyPlot, Seaborn, NLTK, Tensorflow, RNN, PyTorch, Keras и другими инструментами и библиотеками  <br>
 4️⃣ Как связаться со мной : Напишите мне сюда <a href="https://t.me/MishaSneg">t.me/MishaSneg</a><br>
 
 
